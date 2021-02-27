@@ -1,0 +1,7 @@
+{
+    "host": 60,
+    "port": 47365,
+    "jugadores": ["Bad Bunny", "La Rosalia", "Nicki Nicole", "Trueno", "Ozuna", "Maluma", "Farruko"],
+    "CANTIDAD_JUGADORES_PARTIDA": 3
+
+}
