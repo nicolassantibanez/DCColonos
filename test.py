@@ -3,6 +3,7 @@ import pygame
 WIDTH, HEIGHT = 300, 200
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("DCColonos")
 pygame.display.flip()
 
 running = True
